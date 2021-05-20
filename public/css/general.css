@@ -1,0 +1,23 @@
+@import url(https://fonts.googleapis.com/css?family=Rubik);body {
+  font-family: Rubik, sans-serif;
+}
+
+.gg {
+  color: pink;
+  text-align: center;
+}
+
+.red {
+  color: red;
+}
+
+.navI {
+  font-color: pink;
+  font-size: 44px;
+}
+
+.zz {
+  font-size: 12px;
+  font-color: pink;
+}
+
